@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Piratheepan
 
-<!--
-**pirathee587/pirathee587** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second-year IT undergraduate
+💻 Passionate about Hardware + Software Development
+🔧 Working with Arduino, ESP32, and Full-Stack Web Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+* 💻 Programming: C, Java
+* 🌐 Web Development: HTML, CSS, JavaScript, React JS
+* ⚙️ Backend: Spring Boot
+* 🔌 Hardware: Arduino, ESP32, Sensors
+* 🌐 Networking Basics
+
+---
+
+## 📌 Projects
+
+* 🔋 Smart Power Supply System (Arduino-based)
+* 🌐 Web Applications using React & Spring Boot
+
+---
+
+## 📫 Contact Me
+
+* Email: piratheepan0693@gmail.com
+* GitHub: https://github.com/pirathee587
+
+---
+
+
