@@ -1,4 +1,4 @@
-::: 
+
 # Hi 👋, I'm Piratheepan Jeyakumaran
 
 ### Third-Year IT Undergraduate \| Full-Stack Developer \| Software Engineering Intern Candidate
@@ -206,7 +206,7 @@ CGPA: **3.45/4.00**
 
 ------------------------------------------------------------------------
 
-::: 
+
 ![Profile
 Views](https://komarev.com/ghpvc/?username=pirathee587&color=blue&style=flat-square)
 
